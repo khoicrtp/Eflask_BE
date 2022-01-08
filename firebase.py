@@ -54,7 +54,7 @@ def decodeImage(imagename, bytestring):
 # for file in allFiles:
 #     print(file.name, type(file.name))
 
-downloadImage("suir2","abc.png")
+# downloadImage("suir2","abc.png")
 
 # for file in allFiles:
 #     print(file.name)
